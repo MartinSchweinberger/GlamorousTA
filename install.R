@@ -1,0 +1,7 @@
+install.packages("tidyverse")
+install.packages("quanteda")
+install.packages("udpipe")
+install.packages("openxlsx")
+install.packages("stopwords")
+install.packages("ggwordcloud")
+install.packages("quanteda.textplots")
