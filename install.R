@@ -1,6 +1,8 @@
 install.packages("tidyverse")
 install.packages("here")
 install.packages("quanteda")
+install.packages("gsl")
+install.packages("brew")
 install.packages("topicmodels")
 install.packages("openxlsx")
 install.packages("stopwords")
